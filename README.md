@@ -109,6 +109,9 @@ Conozco el Itstep, que es una academia, está desconozco si lo implementa en alg
 
 ## 2. Escribe una propuesta de una máquina que venda distintos artículos y haz el diagrama de clases del sistema que propones. Recuerda que puede haber composición (un teclado se compone de botones) y generalización (tipo de productos, tipo de pago).
 
+La propuesta es una máquina dispensadora de alimentos, para ponerla en centros recreativos o de educación. 
+
+
 
 ---
 # Referencias.
