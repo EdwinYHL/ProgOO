@@ -111,6 +111,7 @@ Conozco el Itstep, que es una academia, está desconozco si lo implementa en alg
 
 La propuesta es una máquina dispensadora de alimentos, para ponerla en centros recreativos o de educación. 
 
+Diagrama
 
 
 ---
